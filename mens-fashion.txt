@@ -18,6 +18,10 @@ Outlier::https://outlier.nyc/::$$$
 I Love Ugly::https://www.iloveugly.com/::$$
 Bonobos::https://bonobos.com/::$$
 Rip n Dip::https://www.ripndipclothing.com/::$$
+All Saints::https://www.us.allsaints.com/men/new/::$$-$$$
+Club Monacco::http://www.clubmonaco.com/category/index.jsp?categoryId=12243591::$$
+Saint Laurent Paris::http://www.ysl.com/us/shop-product/men/ready-to-wear::$$$
+Wolf vs Goat::https://www.wolfvsgoat.com/::$-$$
 
 Consignment
 The Real Real https://www.therealreal.com/
@@ -59,6 +63,9 @@ Suits
 Suitsupply::http://us.suitsupply.com/en_US/home::$$
 Indochino::https://www.indochino.com/::$$
 
+Belts
+Orion Leather Company::https://www.orionleathercompany.com/::$
+
 Footwear
 Red Wing::http://www.redwingshoes.com/::$$
 Nike::https://www.nike.com/us/en_us/c/men::$$
@@ -91,6 +98,12 @@ Perfume
 Luckyscent::http://www.luckyscent.com/:$$
 Fragrantica::https://www.fragrantica.com/:$$
 Montale::https://montaleparfums.com/en/:$
+
+Bags & Backpacks
+Fjallraven::https://www.fjallraven.us/products/kanken-backpack::$
+Herschel::https://herschel.com/shop/mens/backpacks::$
+Chrome Industries::http://www.chromeindustries.com/bags/backpacks/::$$
+Mission Workshop::https://missionworkshop.com/collections/backpacks::$$-$$$
 
 Youtube
 Jairwoo::https://www.youtube.com/user/jairwoo
