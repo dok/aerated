@@ -1,91 +1,91 @@
 Companies
-Nordstrom http://shop.nordstrom.com/c/men
-H&M http://www.hm.com/us/department/MEN
-Grailed http://grailed.com
-Bombfell http://bombfell.com
-Mr. Porter https://www.mrporter.com/
-APC http://usonline.apc.fr/men
-Urban Outfitters https://www.urbanoutfitters.com/mens-clothing
-Uniqlo https://www.uniqlo.com/us/en/men
-J Crew https://www.jcrew.com/mens-clothing.jsp?sidecar=true
-Supreme http://www.supremenewyork.com/shop
-Topman http://us.topman.com/?geoip=home
-Zara https://www.zara.com/us/en/man-c270092.html
-Palace https://shop.palaceskateboards.com/
-Rag & Bone https://www.rag-bone.com/mens/
-Vince https://www.vince.com/men-new-arrivals/
-Comme Des Garcons http://www.comme-des-garcons.com/
-Acne Studios http://www.acnestudios.com/us/en/man/outerwear/
-Outlier https://outlier.nyc/
-I Love Ugly https://www.iloveugly.com/
-Rip n Dip https://www.ripndipclothing.com/
+Nordstrom::http://shop.nordstrom.com/c/men::$$
+H&M::http://www.hm.com/us/department/MEN::$
+Grailed::http://grailed.com::$$$
+Bombfell::http://bombfell.com::$$
+Mr. Porter::https://www.mrporter.com/::$$$
+APC::http://usonline.apc.fr/men::$$$
+Urban Outfitters::https://www.urbanoutfitters.com/mens-clothing::$
+Uniqlo::https://www.uniqlo.com/us/en/men::$
+J Crew::https://www.jcrew.com/mens-clothing.jsp?sidecar=true::$$
+Supreme::http://www.supremenewyork.com/shop::$$
+Topman::http://us.topman.com/?geoip=home::$
+Zara::https://www.zara.com/us/en/man-c270092.html::$
+Palace::https://shop.palaceskateboards.com/::$$
+Rag & Bone::https://www.rag-bone.com/mens/::$$$
+Vince::https://www.vince.com/men-new-arrivals/::$$$
+Comme Des Garcons::http://www.comme-des-garcons.com/::$$$
+Acne Studios::http://www.acnestudios.com/us/en/man/outerwear/::$$$
+Outlier::https://outlier.nyc/::$$$
+I Love Ugly::https://www.iloveugly.com/::$$
+Rip n Dip::https://www.ripndipclothing.com/::$$
 
 Blogs
-Art of Manliness http://www.artofmanliness.com/2009/03/31/best-mens-style-websites/
-Dappered https://dappered.com/
+Art of Manliness::http://www.artofmanliness.com/2009/03/31/best-mens-style-websites/
+Dappered::https://dappered.com/
 
 Reddit
-MFW www.reddit.com/r/malefashionadvice
-Frugal Male Fashion https://www.reddit.com/r/frugalmalefashion
-Good Year Welt https://www.reddit.com/r/goodyearwelt/
+MFW::https://www.reddit.com/r/malefashionadvice
+Frugal Male Fashion::https://www.reddit.com/r/frugalmalefashion
+Good Year Welt::https://www.reddit.com/r/goodyearwelt/
 
 Pinterest
-Category https://www.pinterest.com/categories/mens_fashion/
-Explore https://www.pinterest.com/explore/mens-fashion/?lp=true
+Category::https://www.pinterest.com/categories/mens_fashion/
+Explore::https://www.pinterest.com/explore/mens-fashion/?lp=true
 
 Magazines
-GQ https://www.gq.com/style
-Esquire http://www.esquire.com/style/mens-fashion/
-Hypebeast https://hypebeast.com/
+GQ::https://www.gq.com/style::$
+Esquire::http://www.esquire.com/style/mens-fashion/::$
+Hypebeast::https://hypebeast.com/::$
 
 Suits
-Suitsupply http://us.suitsupply.com/en_US/home
-Indochino https://www.indochino.com/
+Suitsupply::http://us.suitsupply.com/en_US/home::$$
+Indochino::https://www.indochino.com/::$$
 
 Footwear
-Red Wing http://www.redwingshoes.com/
-Nike https://www.nike.com/us/en_us/c/men
-Adidas http://www.y-3.com/us/#
-Viberg https://viberg.com/collections/footwear
-Clarks https://www.clarksusa.com/us/c/mens-boots
-Bexley www.bexley.com/Bexley/en/r/dress_shoes
-Allen Edmonds http://www.allenedmonds.com/shoes/mens-shoes/boots/
-Wolverine http://www.wolverine.com/US/en/heritage/
-Oak Street Bootmakers https://oakstreetbootmakers.com/
-Nicks Boots https://nicksboots.com/
-Quoddy https://www.quoddy.com/
-Dayton http://www.daytonboots.com/
-Danner http://www.danner.com/men
-WII Impressions https://www.wwiiimpressions.com/
-Chippewa https://www.chippewaboots.com/
+Red Wing::http://www.redwingshoes.com/::$$
+Nike::https://www.nike.com/us/en_us/c/men::$$
+Adidas::http://www.y-3.com/us/#::$$
+Viberg::https://viberg.com/collections/footwear::$$$
+Clarks::https://www.clarksusa.com/us/c/mens-boots::$$
+Bexley::www.bexley.com/Bexley/en/r/dress_shoes::$$$
+Allen Edmonds::http://www.allenedmonds.com/shoes/mens-shoes/boots/::$$
+Wolverine::http://www.wolverine.com/US/en/heritage/::$$
+Oak Street Bootmakers::https://oakstreetbootmakers.com/::$$
+Nicks Boots::https://nicksboots.com/::$$
+Quoddy::https://www.quoddy.com/::$$
+Dayton::http://www.daytonboots.com/::$$
+Danner::http://www.danner.com/men::$$
+WII Impressions::https://www.wwiiimpressions.com/::$$
+Chippewa::https://www.chippewaboots.com/::$$
 
 Activewear
-The North Face https://www.thenorthface.com/shop/mens
-Outdoor Research https://www.outdoorresearch.com/us/en/
+The North Face::https://www.thenorthface.com/shop/mens::$$
+Outdoor Research::https://www.outdoorresearch.com/us/en/::$$
 
 Hair
-Evanstyle http://evanstyle.co.kr/product/list.html?cate_no=12
+Evanstyle::http://evanstyle.co.kr/product/list.html?cate_no=12
 
 Glasses
-Warby Parker https://www.warbyparker.com/
-Ray Ban https://www.ray-ban.com/usa/sunglasses/men-s/plp
-Maui Jim https://www.mauijim.com/en/shop/sunglasses
-Oakley http://www.oakley.com/en/mens/sunglasses/category/m02
+Warby Parker::https://www.warbyparker.com/::$$
+Ray Ban::https://www.ray-ban.com/usa/sunglasses/men-s/plp::$$
+Maui Jim::https://www.mauijim.com/en/shop/sunglasses::$$
+Oakley::http://www.oakley.com/en/mens/sunglasses/category/m02::$$
 
 Perfume
 
 Youtube
-Jairwoo https://www.youtube.com/user/jairwoo
+Jairwoo::https://www.youtube.com/user/jairwoo
 
 Watches
-Seiko https://www.seikowatches.com/
-G-Shock http://www.gshock.com/
-Timex http://www.timex.com/browse/men/watches/shop-all/
-Rolex https://www.rolex.com/watches/find-rolex/man.html
-Casio https://www.casio.com/products/watches
-Patek Philippe http://www.patek.com/en/collection/mens-watches
+Seiko::https://www.seikowatches.com/::$
+G-Shock::http://www.gshock.com/::$
+Timex::http://www.timex.com/browse/men/watches/shop-all/::$
+Rolex::https://www.rolex.com/watches/find-rolex/man.html::$$
+Casio::https://www.casio.com/products/watches::$
+Patek Philippe::http://www.patek.com/en/collection/mens-watches::$$$
 
 Guides
-Bond On a Budget II https://imgur.com/a/zbAEz
-Palewave Starter Guide https://imgur.com/uammchn
-Time On a Budget https://imgur.com/a/Syua2
+Bond On a Budget II::https://imgur.com/a/zbAEz
+Palewave Starter Guide::https://imgur.com/uammchn
+Time On a Budget::https://imgur.com/a/Syua2
