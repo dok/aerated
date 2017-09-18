@@ -18,6 +18,7 @@ Comme Des Garcons::http://www.comme-des-garcons.com/::$$$
 Acne Studios::http://www.acnestudios.com/us/en/man/outerwear/::$$$
 Outlier::https://outlier.nyc/::$$$
 I Love Ugly::https://www.iloveugly.com/::$$
+Bonobos::https://bonobos.com/::$$
 Rip n Dip::https://www.ripndipclothing.com/::$$
 
 Blogs
@@ -62,6 +63,7 @@ Chippewa::https://www.chippewaboots.com/::$$
 Activewear
 The North Face::https://www.thenorthface.com/shop/mens::$$
 Outdoor Research::https://www.outdoorresearch.com/us/en/::$$
+Under Armour::https://www.underarmour.com/en-us/mens::$$
 
 Hair
 Evanstyle::http://evanstyle.co.kr/product/list.html?cate_no=12
@@ -76,6 +78,25 @@ Perfume
 
 Youtube
 Jairwoo::https://www.youtube.com/user/jairwoo
+
+Instagram
+sharpgrids::https://www.instagram.com/sharpgrids/
+thepacman82::https://www.instagram.com/thepacman82/
+jaybeezishangintough::https://www.instagram.com/jaybeezishangintough/
+awalker4715::https://www.instagram.com/awalker4715/
+fashionbeanscom::https://www.instagram.com/fashionbeanscom/
+stylishgridgame::https://www.instagram.com/stylishgridgame/
+permanentstylelondon::https://www.instagram.com/permanentstylelondon/
+nickwooster::https://www.instagram.com/nickwooster/
+justinliv::https://www.instagram.com/justinliv/
+garconjon::https://www.instagram.com/garconjon/
+menwithstreetstyle::https://www.instagram.com/menwithstreetstyle/
+menwithclass::https://www.instagram.com/menwithclass/
+meninthistown::https://www.instagram.com/meninthistown/
+guerreisms::https://www.instagram.com/guerreisms/
+thesartorialist::https://www.instagram.com/thesartorialist/
+reissfashion::https://www.instagram.com/reissfashion/
+lukasabbat::https://www.instagram.com/lukasabbat/
 
 Watches
 Seiko::https://www.seikowatches.com/::$
