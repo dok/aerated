@@ -1,8 +1,8 @@
-Companies
+Retailers
 Nordstrom::http://shop.nordstrom.com/c/men::$$
+
+Brands
 H&M::http://www.hm.com/us/department/MEN::$
-Grailed::http://grailed.com::$$$
-Bombfell::http://bombfell.com::$$
 Mr. Porter::https://www.mrporter.com/::$$$
 APC::http://usonline.apc.fr/men::$$$
 Urban Outfitters::https://www.urbanoutfitters.com/mens-clothing::$
@@ -18,6 +18,13 @@ Outlier::https://outlier.nyc/::$$$
 I Love Ugly::https://www.iloveugly.com/::$$
 Bonobos::https://bonobos.com/::$$
 Rip n Dip::https://www.ripndipclothing.com/::$$
+
+Consignment
+The Real Real https://www.therealreal.com/
+Bombfell https://www.bombfell.com/
+
+Buy n' Sell
+Grailed::http://grailed.com::$$$
 
 Streetwear
 Supreme::http://www.supremenewyork.com/shop::$$
@@ -114,6 +121,7 @@ Timex::http://www.timex.com/browse/men/watches/shop-all/::$
 Rolex::https://www.rolex.com/watches/find-rolex/man.html::$$
 Casio::https://www.casio.com/products/watches::$
 Patek Philippe::http://www.patek.com/en/collection/mens-watches::$$$
+Larsen Watches::https://www.larsenwatches.com/mens-watches.html::$$
 
 Rings
 Alpha Rings::http://www.alpharings.com.au/::$-$$$
