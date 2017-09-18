@@ -81,6 +81,9 @@ Maui Jim::https://www.mauijim.com/en/shop/sunglasses::$$
 Oakley::http://www.oakley.com/en/mens/sunglasses/category/m02::$$
 
 Perfume
+Luckyscent::http://www.luckyscent.com/:$$
+Fragrantica::https://www.fragrantica.com/:$$
+Montale::https://montaleparfums.com/en/:$
 
 Youtube
 Jairwoo::https://www.youtube.com/user/jairwoo
@@ -111,6 +114,9 @@ Timex::http://www.timex.com/browse/men/watches/shop-all/::$
 Rolex::https://www.rolex.com/watches/find-rolex/man.html::$$
 Casio::https://www.casio.com/products/watches::$
 Patek Philippe::http://www.patek.com/en/collection/mens-watches::$$$
+
+Rings
+Alpha Rings::http://www.alpharings.com.au/::$-$$$
 
 Guides
 Bond On a Budget II::https://imgur.com/a/zbAEz
