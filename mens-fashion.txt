@@ -8,10 +8,8 @@ APC::http://usonline.apc.fr/men::$$$
 Urban Outfitters::https://www.urbanoutfitters.com/mens-clothing::$
 Uniqlo::https://www.uniqlo.com/us/en/men::$
 J Crew::https://www.jcrew.com/mens-clothing.jsp?sidecar=true::$$
-Supreme::http://www.supremenewyork.com/shop::$$
 Topman::http://us.topman.com/?geoip=home::$
 Zara::https://www.zara.com/us/en/man-c270092.html::$
-Palace::https://shop.palaceskateboards.com/::$$
 Rag & Bone::https://www.rag-bone.com/mens/::$$$
 Vince::https://www.vince.com/men-new-arrivals/::$$$
 Comme Des Garcons::http://www.comme-des-garcons.com/::$$$
@@ -20,6 +18,17 @@ Outlier::https://outlier.nyc/::$$$
 I Love Ugly::https://www.iloveugly.com/::$$
 Bonobos::https://bonobos.com/::$$
 Rip n Dip::https://www.ripndipclothing.com/::$$
+
+Streetwear
+Supreme::http://www.supremenewyork.com/shop::$$
+Palace::https://shop.palaceskateboards.com/::$$
+Bape::https://us.bape.com/collections/men::$$
+Stussy::http://www.stussy.com/us/::$
+
+Activewear
+The North Face::https://www.thenorthface.com/shop/mens::$$
+Outdoor Research::https://www.outdoorresearch.com/us/en/::$$
+Under Armour::https://www.underarmour.com/en-us/mens::$$
 
 Blogs
 Art of Manliness::http://www.artofmanliness.com/2009/03/31/best-mens-style-websites/
@@ -59,11 +68,8 @@ Dayton::http://www.daytonboots.com/::$$
 Danner::http://www.danner.com/men::$$
 WII Impressions::https://www.wwiiimpressions.com/::$$
 Chippewa::https://www.chippewaboots.com/::$$
-
-Activewear
-The North Face::https://www.thenorthface.com/shop/mens::$$
-Outdoor Research::https://www.outdoorresearch.com/us/en/::$$
-Under Armour::https://www.underarmour.com/en-us/mens::$$
+Vans::https://www.vans.com/mens.html::$
+Converse::https://www.converse.com/us/en_us/c/converse/mens::$
 
 Hair
 Evanstyle::http://evanstyle.co.kr/product/list.html?cate_no=12
