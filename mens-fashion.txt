@@ -23,6 +23,7 @@ Club Monacco::http://www.clubmonaco.com/category/index.jsp?categoryId=12243591::
 Saint Laurent Paris::http://www.ysl.com/us/shop-product/men/ready-to-wear::$$$
 Wolf vs Goat::https://www.wolfvsgoat.com/::$-$$
 Black Canvas::https://www.theblackcanvas.com/collections/dress-shirts::$
+Outdoor Voices::https://www.outdoorvoices.com/::$-$$
 
 Consignment
 The Real Real https://www.therealreal.com/
@@ -41,6 +42,7 @@ Activewear
 The North Face::https://www.thenorthface.com/shop/mens::$$
 Outdoor Research::https://www.outdoorresearch.com/us/en/::$$
 Under Armour::https://www.underarmour.com/en-us/mens::$$
+Outdoor Voices::https://www.outdoorvoices.com/::$-$$
 
 Blogs
 Art of Manliness::http://www.artofmanliness.com/2009/03/31/best-mens-style-websites/
